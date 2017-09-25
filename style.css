@@ -1,0 +1,25 @@
+body{
+
+   background-color: MistyRose;
+
+    } 
+
+     .heading{
+      
+         color: blue;
+	    text-align: center;
+	     
+	      } 
+	       
+	        h2, h3, p{
+		 
+		    text-align: center;
+
+		     }
+
+		      img{
+
+		         display: block;
+			    margin: auto;
+			      
+			       }
